@@ -13,6 +13,7 @@
 		528127B12EBF3EFE00386469 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 528127B02EBF3EFE00386469 /* Preview Assets.xcassets */; };
 		528127B82EBF455D00386469 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528127B72EBF455D00386469 /* Constants.swift */; };
 		528127BA2EBF4BA500386469 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528127B92EBF4BA500386469 /* HomeView.swift */; };
+		528127BC2EBF54B200386469 /* HorizontalListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 528127BB2EBF54B100386469 /* HorizontalListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		528127B02EBF3EFE00386469 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		528127B72EBF455D00386469 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		528127B92EBF4BA500386469 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		528127BB2EBF54B100386469 /* HorizontalListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				528127AB2EBF3EFB00386469 /* ContentView.swift */,
 				528127B92EBF4BA500386469 /* HomeView.swift */,
 				528127B72EBF455D00386469 /* Constants.swift */,
+				528127BB2EBF54B100386469 /* HorizontalListView.swift */,
 				528127AD2EBF3EFE00386469 /* Assets.xcassets */,
 				528127AF2EBF3EFE00386469 /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				528127BA2EBF4BA500386469 /* HomeView.swift in Sources */,
 				528127AA2EBF3EFB00386469 /* watchlyApp.swift in Sources */,
 				528127B82EBF455D00386469 /* Constants.swift in Sources */,
+				528127BC2EBF54B200386469 /* HorizontalListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
